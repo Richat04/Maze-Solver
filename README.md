@@ -20,7 +20,7 @@ The code is structured to meet the following requirements:
 - Exception handling for invalid paths.
 
 ## 📁 Project Structure
-> grid.py           # Contains the Maze class implementation
+> grid.py                    # Contains the Maze class implementation
 > 
 > stack.py          # Custom Stack class using dynamic arrays
 > 
